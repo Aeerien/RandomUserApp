@@ -76,9 +76,6 @@ git clone https://github.com/Aeerien/RandomUserApp.git
 ---
 
 ## 📸 Screenshots
-
-```markdown
-![Location notification](/Users/irinaarkhireeva/Downloads/IMG_3265.PNG)
-![Main Screen](/Users/irinaarkhireeva/Downloads/IMG_3266.PNG)
-![User Selection](/Users/irinaarkhireeva/Downloads/IMG_3267.PNG)
-``` 
+![IMG_3267](https://github.com/user-attachments/assets/26bb6971-8b51-4df6-a57b-5516c7398b84)
+![IMG_3266](https://github.com/user-attachments/assets/33f6c465-8775-44a8-8951-63b4adb2da4e)
+![IMG_3265](https://github.com/user-attachments/assets/59d278d5-dc45-4fed-952f-9aeb63c84576)
