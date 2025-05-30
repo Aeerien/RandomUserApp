@@ -10,7 +10,6 @@ final class LocationManager:  NSObject, ObservableObject {
     
     @Published var currentLocation: CLLocation?
     @Published var city: String = ""
-    @Published var country: String = ""
     
     override init() {
         super.init()
@@ -36,7 +35,6 @@ extension LocationManager: CLLocationManagerDelegate {
             
             if let placemark = placemarks?.first {
                 self.city = placemark.locality ?? ""
-                self.country = placemark.country ?? ""
             }
         }
     }

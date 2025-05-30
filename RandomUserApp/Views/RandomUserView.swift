@@ -61,7 +61,7 @@ struct RandomUserView: View {
             .navigationBarTitle(
                 locationManager.city.isEmpty
                 ? "My location is not available"
-                : "\(String(locationManager.city)), \(String(describing: locationManager.country))",
+                : "\(String(locationManager.city))",
                 displayMode: .inline
             )
         }

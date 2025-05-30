@@ -19,7 +19,7 @@ struct RandomUserApp: App {
     private static func setUpNavigationBar() {
         let appearance = UINavigationBarAppearance()
         appearance.configureWithOpaqueBackground()
-        appearance.backgroundColor = UIColor.systemBlue.withAlphaComponent(0.7)
+        appearance.backgroundColor = UIColor.systemBlue.withAlphaComponent(0.9)
         appearance.titleTextAttributes = [.foregroundColor: UIColor.white]
         appearance.largeTitleTextAttributes = [.foregroundColor: UIColor.white]
         
