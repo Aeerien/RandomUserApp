@@ -77,7 +77,7 @@ git clone https://github.com/Aeerien/RandomUserApp.git
 
 ## 📸 Screenshots
 
-<img src="![IMG_3265](https://github.com/user-attachments/assets/59d278d5-dc45-4fed-952f-9aeb63c84576))" width="150"/>
-<img src="![IMG_3266](https://github.com/user-attachments/assets/33f6c465-8775-44a8-8951-63b4adb2da4e)" width="150"/>
-<img src="![IMG_3267](https://github.com/user-attachments/assets/26bb6971-8b51-4df6-a57b-5516c7398b84)" width="150"/>
+<img src="https://github.com/user-attachments/assets/59d278d5-dc45-4fed-952f-9aeb63c84576" width="150"/>
+<img src="https://github.com/user-attachments/assets/33f6c465-8775-44a8-8951-63b4adb2da4e" width="150"/>
+<img src="https://github.com/user-attachments/assets/26bb6971-8b51-4df6-a57b-5516c7398b84" width="150"/>
 
