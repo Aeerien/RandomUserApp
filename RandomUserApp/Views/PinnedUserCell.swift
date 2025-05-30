@@ -1,6 +1,3 @@
-//  PinnedUserView.swift
-//  RandomUserApp
-//  Created by Irina Arkhireeva on 13.02.2025.
 
 import SwiftUI
 import CoreLocation
@@ -21,6 +18,7 @@ struct PinnedUserCell: View {
         .background(Color.white)
         .cornerRadius(8)
         .shadow(radius: 4)
+        .aspectRatio(contentMode: .fit)
     }
 }
 

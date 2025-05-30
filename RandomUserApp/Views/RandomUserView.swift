@@ -1,6 +1,3 @@
-//  RandomUserView.swift
-//  RandomUserApp
-//  Created by Irina Arkhireeva on 13.02.2025.
 
 import SwiftUI
 import CoreLocation
@@ -74,8 +71,8 @@ struct RandomUserView: View {
             Alert(title: Text("Error"),
                   message: Text(randomUserViewModel.errorMessage ?? "Unknown error"),
                   dismissButton: .default(Text("OK"), action: {
-                    randomUserViewModel.errorMessage = nil
-                })
+                randomUserViewModel.errorMessage = nil
+            })
             )
         }
     }

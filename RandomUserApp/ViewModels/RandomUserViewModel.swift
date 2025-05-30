@@ -1,6 +1,3 @@
-//  RandomUserViewModel.swift
-//  RandomUserApp
-//  Created by Irina Arkhireeva on 13.02.2025.
 
 import Foundation
 import CoreLocation
@@ -22,7 +19,7 @@ class RandomUserViewModel: ObservableObject {
         }
     }
     
-    ///Starting a task that updates the user's coordinates every 3 seconds.
+    // Starting a task that updates the user's coordinates every 3 seconds.
     private func startRandomMovement() {
         movementTask?.cancel()
         
@@ -34,7 +31,7 @@ class RandomUserViewModel: ObservableObject {
         }
     }
     
-    ///Updating users coordinates with added random offset.
+    // Updating users coordinates with added random offset.
     func updateUserPositions() {
         users = users.map { user in
             var updatedUser = user
